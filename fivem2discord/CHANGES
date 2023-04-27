@@ -1,5 +1,2 @@
-- Create the base resource
-- Create the base fxmanifest
-- Create the server event handlers
-- Create the client event handlers
-- Create the base Configuration file
+- Fixed version check throwing a false outdated error
+- Updated some server events and removed blank spacing

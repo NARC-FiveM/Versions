@@ -1,2 +1,4 @@
-- Fixed version check throwing a false outdated error
-- Updated some server events and removed blank spacing
+- Fixed and updated the version check system also made it configurable
+- Updated configuration and moved webhooks to a server sided config
+- Added configurable option to send messages to discord as an embed
+- Updated the client and server sided file layouts

@@ -1,4 +1,3 @@
-- Fixed and updated the version check system also made it configurable
-- Updated configuration and moved webhooks to a server sided config
-- Added configurable option to send messages to discord as an embed
-- Updated the client and server sided file layouts
+- Fix a nil value error with version checking
+- Fix issues with the embeds missing "description" values
+- Add more (configurable) embed support 

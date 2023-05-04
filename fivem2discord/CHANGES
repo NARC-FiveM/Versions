@@ -1,3 +1,2 @@
-- Fix a nil value error with version checking
-- Fix issues with the embeds missing "description" values
-- Add more (configurable) embed support 
+- Add chat command to test the resource is working `/fm2dtest`
+- Add the ability to call the webhooks from another resource using exports!
